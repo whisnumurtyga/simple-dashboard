@@ -1,0 +1,6 @@
+babel
+matplotlib==3.4.3
+numpy
+pandas
+seaborn
+streamlit
