@@ -14,5 +14,5 @@ streamlit run dashboard.py
 
 ## Access App
 ```
-streamlit run dashboard.py
+streamlit run fp-dashboard.py
 ```
